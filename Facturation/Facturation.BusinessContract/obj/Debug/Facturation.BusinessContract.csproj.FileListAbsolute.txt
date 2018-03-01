@@ -1,0 +1,4 @@
+D:\Projets\AutoFormationsWcf\Facturation\Facturation.BusinessContract\bin\Debug\Facturation.BusinessContract.dll
+D:\Projets\AutoFormationsWcf\Facturation\Facturation.BusinessContract\bin\Debug\Facturation.BusinessContract.pdb
+D:\Projets\AutoFormationsWcf\Facturation\Facturation.BusinessContract\obj\Debug\Facturation.BusinessContract.dll
+D:\Projets\AutoFormationsWcf\Facturation\Facturation.BusinessContract\obj\Debug\Facturation.BusinessContract.pdb

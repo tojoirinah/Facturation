@@ -36,7 +36,6 @@ namespace Facturation.RepositoryHelper.Base
 
         public void Add(params TEntity[] items)
         {
-
         }
 
         public void Update(params TEntity[] items)

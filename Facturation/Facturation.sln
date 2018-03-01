@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facturation.BusinessContrac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facturation.RepositoryHelper", "Facturation.RepositoryHelper\Facturation.RepositoryHelper.csproj", "{3600B6D3-821F-4FD0-9629-9C2B1B5F24D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facturation.Administration", "Facturation.Administration\Facturation.Administration.csproj", "{80AFA689-C363-4768-B80B-7E52A6DB617E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{3600B6D3-821F-4FD0-9629-9C2B1B5F24D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3600B6D3-821F-4FD0-9629-9C2B1B5F24D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3600B6D3-821F-4FD0-9629-9C2B1B5F24D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80AFA689-C363-4768-B80B-7E52A6DB617E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80AFA689-C363-4768-B80B-7E52A6DB617E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80AFA689-C363-4768-B80B-7E52A6DB617E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80AFA689-C363-4768-B80B-7E52A6DB617E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -61,5 +67,6 @@ Global
 		{580607D5-E3E9-4EC8-A83F-268EE4A68045} = {11061323-5FF7-4D56-8D3F-3FBB8ADFC799}
 		{4E29D31B-A0E4-4202-AC72-A67206F8E7E0} = {11061323-5FF7-4D56-8D3F-3FBB8ADFC799}
 		{3600B6D3-821F-4FD0-9629-9C2B1B5F24D9} = {FDF7588A-2535-4429-811B-9C2CDD5792FE}
+		{80AFA689-C363-4768-B80B-7E52A6DB617E} = {FF1225E4-4386-4AEF-90C6-64402BD88AF7}
 	EndGlobalSection
 EndGlobal

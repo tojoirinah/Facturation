@@ -12,3 +12,4 @@ D:\Projets\AutoFormationsWcf\Facturation\Facturation.RepositoryHelper\bin\Debug\
 D:\Projets\AutoFormationsWcf\Facturation\Facturation.RepositoryHelper\bin\Debug\Remotion.Linq.EagerFetching.xml
 D:\Projets\AutoFormationsWcf\Facturation\Facturation.RepositoryHelper\obj\Debug\Facturation.RepositoryHelper.dll
 D:\Projets\AutoFormationsWcf\Facturation\Facturation.RepositoryHelper\obj\Debug\Facturation.RepositoryHelper.pdb
+D:\Projets\AutoFormationsWcf\Facturation\Facturation.RepositoryHelper\obj\Debug\Facturation.RepositoryHelper.csprojResolveAssemblyReference.cache

@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0.Common", "0.Common", "{95518D0D-ED1E-4C64-94E3-F8471CB025EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Data", "1.Data", "{FDF7588A-2535-4429-811B-9C2CDD5792FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Business", "2.Business", "{11061323-5FF7-4D56-8D3F-3FBB8ADFC799}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.WebService", "3.WebService", "{0A578922-A0AF-44EB-ACCC-2BB458A13FAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Web", "4.Web", "{FF1225E4-4386-4AEF-90C6-64402BD88AF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.Injections", "5.Injections", "{56F1E3E1-D60F-4EB9-92BA-A3CA483C17CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facturation.Repository", "Facturation.Repository\Facturation.Repository.csproj", "{5F22F0C0-420D-4695-A932-B41C67F06C62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facturation.RepositoryContract", "Facturation.RepositoryContract\Facturation.RepositoryContract.csproj", "{F8601A4C-CE72-4883-89CA-22C288102DC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facturation.Business", "Facturation.Business\Facturation.Business.csproj", "{580607D5-E3E9-4EC8-A83F-268EE4A68045}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facturation.BusinessContract", "Facturation.BusinessContract\Facturation.BusinessContract.csproj", "{4E29D31B-A0E4-4202-AC72-A67206F8E7E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facturation.RepositoryHelper", "Facturation.RepositoryHelper\Facturation.RepositoryHelper.csproj", "{3600B6D3-821F-4FD0-9629-9C2B1B5F24D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F22F0C0-420D-4695-A932-B41C67F06C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F22F0C0-420D-4695-A932-B41C67F06C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F22F0C0-420D-4695-A932-B41C67F06C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F22F0C0-420D-4695-A932-B41C67F06C62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8601A4C-CE72-4883-89CA-22C288102DC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8601A4C-CE72-4883-89CA-22C288102DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8601A4C-CE72-4883-89CA-22C288102DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8601A4C-CE72-4883-89CA-22C288102DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{580607D5-E3E9-4EC8-A83F-268EE4A68045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580607D5-E3E9-4EC8-A83F-268EE4A68045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{580607D5-E3E9-4EC8-A83F-268EE4A68045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580607D5-E3E9-4EC8-A83F-268EE4A68045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E29D31B-A0E4-4202-AC72-A67206F8E7E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E29D31B-A0E4-4202-AC72-A67206F8E7E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E29D31B-A0E4-4202-AC72-A67206F8E7E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E29D31B-A0E4-4202-AC72-A67206F8E7E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3600B6D3-821F-4FD0-9629-9C2B1B5F24D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3600B6D3-821F-4FD0-9629-9C2B1B5F24D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3600B6D3-821F-4FD0-9629-9C2B1B5F24D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3600B6D3-821F-4FD0-9629-9C2B1B5F24D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5F22F0C0-420D-4695-A932-B41C67F06C62} = {FDF7588A-2535-4429-811B-9C2CDD5792FE}
+		{F8601A4C-CE72-4883-89CA-22C288102DC8} = {FDF7588A-2535-4429-811B-9C2CDD5792FE}
+		{580607D5-E3E9-4EC8-A83F-268EE4A68045} = {11061323-5FF7-4D56-8D3F-3FBB8ADFC799}
+		{4E29D31B-A0E4-4202-AC72-A67206F8E7E0} = {11061323-5FF7-4D56-8D3F-3FBB8ADFC799}
+		{3600B6D3-821F-4FD0-9629-9C2B1B5F24D9} = {FDF7588A-2535-4429-811B-9C2CDD5792FE}
+	EndGlobalSection
+EndGlobal

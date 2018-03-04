@@ -15,6 +15,6 @@ namespace Facturation.RepositoryHelper.Models
         public int IdUserRole { get; set; }
 
         // navigation
-        public virtual UserRole UserRole { get; set }
+        public virtual UserRole UserRole { get; set; }
     }
 }

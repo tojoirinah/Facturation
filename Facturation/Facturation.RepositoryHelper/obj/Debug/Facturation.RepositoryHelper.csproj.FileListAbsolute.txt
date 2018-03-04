@@ -13,3 +13,6 @@ D:\Projets\AutoFormationsWcf\Facturation\Facturation.RepositoryHelper\bin\Debug\
 D:\Projets\AutoFormationsWcf\Facturation\Facturation.RepositoryHelper\obj\Debug\Facturation.RepositoryHelper.dll
 D:\Projets\AutoFormationsWcf\Facturation\Facturation.RepositoryHelper\obj\Debug\Facturation.RepositoryHelper.pdb
 D:\Projets\AutoFormationsWcf\Facturation\Facturation.RepositoryHelper\obj\Debug\Facturation.RepositoryHelper.csprojResolveAssemblyReference.cache
+D:\Projets\AutoFormationMvc5\Facturations\Facturation\Facturation.RepositoryHelper\obj\Debug\Facturation.RepositoryHelper.csprojResolveAssemblyReference.cache
+D:\Projets\AutoFormationMvc5\Facturations\Facturation\Facturation.RepositoryHelper\obj\Debug\Facturation.RepositoryHelper.dll
+D:\Projets\AutoFormationMvc5\Facturations\Facturation\Facturation.RepositoryHelper\obj\Debug\Facturation.RepositoryHelper.pdb

@@ -2,3 +2,8 @@ D:\Projets\AutoFormationsWcf\Facturation\Facturation.Business\bin\Debug\Facturat
 D:\Projets\AutoFormationsWcf\Facturation\Facturation.Business\bin\Debug\Facturation.Business.pdb
 D:\Projets\AutoFormationsWcf\Facturation\Facturation.Business\obj\Debug\Facturation.Business.dll
 D:\Projets\AutoFormationsWcf\Facturation\Facturation.Business\obj\Debug\Facturation.Business.pdb
+D:\Projets\AutoFormationMvc5\Facturations\Facturation\Facturation.Business\bin\Debug\Facturation.Business.dll
+D:\Projets\AutoFormationMvc5\Facturations\Facturation\Facturation.Business\bin\Debug\Facturation.Business.pdb
+D:\Projets\AutoFormationMvc5\Facturations\Facturation\Facturation.Business\obj\Debug\Facturation.Business.csprojResolveAssemblyReference.cache
+D:\Projets\AutoFormationMvc5\Facturations\Facturation\Facturation.Business\obj\Debug\Facturation.Business.dll
+D:\Projets\AutoFormationMvc5\Facturations\Facturation\Facturation.Business\obj\Debug\Facturation.Business.pdb
